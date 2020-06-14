@@ -13,7 +13,7 @@
     "bot"
   ],
   "author": "Mottelz",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.4"
   },
